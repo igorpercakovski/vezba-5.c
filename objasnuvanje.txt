@@ -1,0 +1,2 @@
+se e isto so prethodnoto samo na maperite mu dodadov polinja so vrednosti(temp_order...)
+i dodadov file writer za csv fajlot
